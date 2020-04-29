@@ -1,0 +1,10 @@
+{
+    "name": "simply-prompt",
+    "version": "0.0.1",
+    "description": "Simply a library that provides clean minimal prompts",
+    "main": "index.js",
+    "repository": "https://github.com/PeterBrooksbank/prospire.git",
+    "author": "Peter Brooksbank",
+    "license": "MIT"
+}
+  
